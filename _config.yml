@@ -1,11 +1,11 @@
 # Site settings
 title: Freelancer
-email: your-email@domain.com
+email: marketing@tech-mena.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Tech-MENA empowers businesses to navigate the complexities of digital transformation through seamless cloud migration and advanced agentic AI solutions."
+keywords: "Cloud, Azure, AWS, Agentic AI, n8n, Copilot Studio"
+skills: "Cloud - Agentic AI - Automation"
+meta_author: Technology MENA
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Tech MENA
   location: Location
   social: Around the Web
   credits: Credits
